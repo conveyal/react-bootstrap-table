@@ -2,10 +2,10 @@ import { Component } from 'react';
 
 class Notification extends Component {
   // allow type is success,info,warning,error
-  notice(type, msg, title) {}
+  notice() {}
 
   render() {
-    return null
+    return null;
   }
 }
 
